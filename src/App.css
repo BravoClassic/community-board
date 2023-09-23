@@ -1,0 +1,43 @@
+#root {
+  margin: 0;
+  width: 100%;
+  text-align: center;
+  text-wrap: wrap;
+}
+
+
+
+
+
+
+.card-container{
+  background-color: #499c4b;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: min-content;
+  height: 450px;
+  /* justify-content: center; */
+  align-items: center;
+  margin: 1em;
+  border-radius: 1em;
+  overflow: hidden;
+}
+
+
+
+
+main{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  /* justify-content: space-between; */
+}
+
+h1, h2, h3, h4, h5, h6{
+  margin-top:0.2em;
+  margin-bottom: 0.3em;
+  padding: 0em;
+}
