@@ -6,10 +6,6 @@
 }
 
 
-
-
-
-
 .card-container{
   background-color: #499c4b;
   display: flex;
@@ -33,7 +29,6 @@ main{
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  /* justify-content: space-between; */
 }
 
 h1, h2, h3, h4, h5, h6{
