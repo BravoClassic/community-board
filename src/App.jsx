@@ -18,7 +18,7 @@ function App() {
             <Card name={"Mentorship Service"} subtitle={"By Ustrive"} image={"../assets/mentor.jpeg"} url={"https://www.ustrive.com/"} />
             <Card name={"Hacking League"} subtitle={"By Major League Hacking"} image={"../assets/hack.jpeg"} url={"https://mlh.io"} />
             <Card name={"Career Fairs"} subtitle={"By EventBrite"} image={"../assets/fair.jpeg"} url={"https://www.eventbrite.com/o/tech-career-fair-12448110053"} />
-            <Card name={"Internships"} subtitle={"By SWEIntern"} image={"../assets/intership.jpeg"} url={"https://sweintern.com"} />
+            <Card name={"Internships"} subtitle={"By SWEIntern"} image={"../assets/internship.jpeg"} url={"https://sweintern.com"} />
             <Card name={"Fullstack Career Guide"} subtitle={"by FreeCodeCamp"} image={"../assets/guide.jpeg"} url={"https://www.freecodecamp.org/news/full-stack-engineer-career-guide/"} />
             <Card name={"CS Theory"} subtitle={"By Compscilib"} image={"../assets/books.jpeg"} url={"https://www.compscilib.com/"} />
           </main>
