@@ -29,9 +29,8 @@ Here's a walkthrough of implemented required features:
 ![](https://github.com/BravoClassic/community-board/blob/main/public/assets/community-board-min.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [Kap](https://getkap.co/) for macOS
 <!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
